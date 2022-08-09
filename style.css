@@ -1,0 +1,14 @@
+@media (max-width: 1030px) {
+    
+}
+#info {
+    background-color: antiquewhite;
+    display:flex;
+    margin:30px;
+    padding:30px;
+    justify-content: center;
+    font-size:30px;
+}
+th {
+    margin:20px;
+}
